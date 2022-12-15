@@ -2,7 +2,7 @@
 """
 Created on Wed Aug 31 11:16:51 2022
 
-@author: avery
+@author: sindhuja 
 """
 
 import streamlit as st
@@ -147,8 +147,6 @@ for circle, label in zip(circles, labels):
 
 st.pyplot(fig)
 
-st.subheader('Created by Avery Smith')
-st.text('Part of his 30 Data Science Proejcts in 30 Days')
-st.caption('Get the code [here](https://www.datacareerjumpstart.com/30projectsresourcesignup)')
-st.caption('Inspiration from [Kyle Pastor](https://www.datacareerjumpstart.com/30projectsresourcesignup)')
+st.subheader('Created by sindhuja')
+
 
